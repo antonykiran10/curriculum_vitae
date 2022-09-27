@@ -1,2 +1,3 @@
+theme: minima
 # curriculum_vitae
 under construction...
